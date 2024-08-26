@@ -1,5 +1,5 @@
 
-*.json
+# *.json
 *.h5
 *.hdf5
 .DS_Store
@@ -10,3 +10,6 @@ implementations/*/images
 implementations/*/saved_models
 
 __pycache__
+datasets
+images
+saved_models
